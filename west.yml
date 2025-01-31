@@ -64,7 +64,7 @@ manifest:
     - name: zephyr
       remote: ag
       repo-path: ag3-sdk-zephyr
-      revision: v3.5.99-ncs1
+      revision: v3.5.99-ncs1-ag
       import:
         # In addition to the zephyr repository itself, NCS also
         # imports the contents of zephyr/west.yml at the above
